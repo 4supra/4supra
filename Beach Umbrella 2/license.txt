@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beach umbrella
+* source:	https://sketchfab.com/3d-models/beach-umbrella-bc2b553cf87142ada6a721e73d3d96b8
+* author:	damien59492 (https://sketchfab.com/damien59492)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beach umbrella" (https://sketchfab.com/3d-models/beach-umbrella-bc2b553cf87142ada6a721e73d3d96b8) by damien59492 (https://sketchfab.com/damien59492) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
